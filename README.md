@@ -11,4 +11,5 @@ HOW TO RUN:
 TEAM MEMBERS:
 
 Claire Curry  - || Chief Francophonic Officer || - claire_curry@sfu.ca - https://github.com/ClaireRCurry
+
 Adam Swangler - ||     Illustrator and UX     || -                     - https://github.com/adamswangler
