@@ -3,10 +3,15 @@
 This program features a tricky little bot who wants to convince you that it knows french. The catch? He doesn't know a single word of french.
 Can you unmask this binary deciever for the Frenchless machine that it is? Test your francophonic ability against this sophisticated foe!
 
+Source code is kept in the WinForms.zip file.
+
 HOW TO RUN:
 
+REQUIRES: .NET verion 6.0.202
 
-
+1. Download the "net6.0-windows.zip" file an extract the contents.
+2. Navigate to the folder in the terminal
+3. Enter in the command "dotnet WinForms.dll"
 
 TEAM MEMBERS:
 
